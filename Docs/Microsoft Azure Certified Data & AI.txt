@@ -1,0 +1,208 @@
+8/16 weeks
+Microsoft Azure Certified Data & AI
+Start your career in Data & AI with Microsoft and Techionista (re)training track and future-proof tech career.
+Obtain 2 or 3 Microsoft certificates
+Extensive Career Skills Track with hands-on business cases
+With Job Search Support
+
+
+Techionistas Vivianne about our mission.
+
+Why this training?
+Together with Microsoft, we’ve put together this 100% online course that gets you ready for a job in Tech in either 8 or 16 weeks full-time (excluding vacations). During the 8-week track, you’ll score two Microsoft certifications: Azure Fundamentals (AZ-900) and Microsoft Power BI Data Analyst (PL-300). In addition, you will go through an extensive career skills track. This will prepare you for a job as a data analyst, business intelligence professional, or data & AI consultant. During the 16-week track, you will additionally prepare for a third Microsoft certificate: Data Engineering on Microsoft Azure (DP-203). This track is interesting for people considering becoming a data engineer. These programs will both be taught in English.
+
+For both tracks: we can put you in contact with interested companies even before the training. Who knows, you might be able to start your training with a job guarantee. In that case, your new employer will pay for your training. Are you not looking for a job guarantee, for example because your employer wants you to follow this training? That is also possible! Check the frequently asked questions or get in touch with us to see how that works.
+
+Need financial support to follow this track?
+Fear not, as there are many funding and subsidy opportunities available to help you on your journey toward your brand-new career in tech. We’ve made a list of funding and subsidy opportunities for you.
+
+Boost your career
+Hundreds of people have already successfully retrained themselves via our Microsoft Azure Certified Data & AI track. The success of this training is that you get personal attention with multiple touch points. You embark on a journey with your fellow students as well as our coaches, and trainers who guide you to the finish. We are in this together!
+
+How do you register?
+Because we want to make sure we can deliver what you need, we have put in place a selective application process. First, you need to fill out the application form – this application is completely non-binding. Via that form, you tell us more about yourself: What work experience do you have? What is your ambition? In which region would you like to work and for what type of company? After receiving the additional information, we will invite you for an intake call. During this call you can ask all your questions about the training, and of course we want to get to know you better. If, after this intake call, we both feel that this training is for you, you will receive a positive recommendation and you will be ready to embark on your retraining adventure.
+
+
+You are the perfect match when you are..
+Are you eager to learn? Do you have an affinity with the world of Data & AI? Are you result driven? Analytical savvy? Then this track might be for you.
+
+Analytical
+It is important that you have some analytical skills (for example, that you have a feeling for mathematics). Experience with Excel or programming languages, for example, is definitely a plus.
+
+Academic level
+We estimate that you need to have an academic (thinking) level for this training. You do not have to prove this to us with a University diploma; it is also possible that you reached this level through your work experience.
+
+Work experience
+Your previous career may be unexpectedly interesting for your new employer. During this course you will learn everything about Data & AI; but it’s your work experience and your character that makes you unique and stand out.
+
+Mentality
+You have a growth mindset, instead of problems you only see challenges. You are assertive and communicative. You are eager to learn and stress resistant. You can deal with setbacks and therefore you are flexible.
+
+Age
+We believe in age diversity, so there is no such thing as too young or too old. Everyone is welcome.
+
+This is what you will learn
+We believe in a combination of hard, career, and business skills. That is why you will not only be taught everything to do with data and AI; you will also be taught by experienced personal branding experts. This is how you learn how to firmly establish yourself. We use a combination of Microsoft material, on-demand video material, interactive DataCamp material, and live exam prep sessions to prepare you (in the best way possible) for the Microsoft exams. In addition, you’ll have access to practice exams for the Microsoft certifications. The great thing is that you continue to have one year access to most of these materials after this course.
+
+Hard skills
+*These topics are only covered in the 16-week track.
+**Taking this exam is not part of the program.
+
+Cloud Computing with Microsoft Azure: You will dive into the fundamentals of cloud computing and cloud services and obtain the AZ-900, Microsoft Azure Fundamentals Microsoft Certification.
+Analyzing and modelling data in Power BI: You will learn how to clean, transform, model and analyze data in the popular business intelligence tool Power BI. You will also obtain the PL-300, Microsoft Power BI Data Analyst Microsoft Certification.
+Building a dashboard in Power BI: You will learn how to visualize and to build interactive dashboards.
+Programming Language SQL: You will gain insight into accessing and querying databases.
+AI Fundamentals: This training is all about creating responsible, powerful AI.You will learn the principles of machine learning and how to create different models in Azure. You will also dive into the fundamentals of computer vision and natural language processing, and how to analyze images and text, respectively. After the training, you are ready to independently take your AI-900 exam.**
+Programming Language Python*: You will learn how to use Python to extract and transform data, create visualizations, but also in the context of big data. You will get hands-on experience with libraries such as Pandas, Matplotlib, and Seaborn.
+Data Fundamentals On Microsoft Azure*: To master data in the cloud, you will gain a solid understanding of core data concepts such as relational data, non-relational data, big data, and analytics. After the training, you are ready to independently take your DP-900 exam.**
+Data Engineering on Microsoft Azure*: You’ll learn to integrate, transform, and consolidate data from both structured and unstructured data systems. You will also obtain the DP-203, Data Engineering on Microsoft Azure Certification.
+Career skills
+How to learn: Explore how our mindset influences how we experience the learning process and learn tools to learn smarter, not harder.
+Improve your communication and collaboration with DISC: DISC is a self-evaluation assessment that helps to identify your strengths, energizers, and your behavioral and communication style.
+Deliver a powerful quick pitch: Learn to effectively present yourself in any situation.
+Personal Branding: LinkedIn
+Portfolio building with GitHub: Build your own data portfolio and make your work visible.
+Convincing resume writing: How to make your resume go from good to great.
+Ace your job interview: How to feel confident going while presenting yourself to a potential employer.
+Salary Negotiation: How to negotiate like a pro and get the salary you deserve.
+Business Case
+But of course, you also want to get meaningful real-world-like experience. That’s why, during this track, you’re going to work on two business cases with real company data. During these business cases, you will apply all your knowledge and present your report and/or dashboard to a jury of diverse stakeholders who will not only be judging your technical knowledge, but also your delivery. Besides the delivery, teamwork skills, time-management skills, and budget management skills will be put to the test.
+
+What was her experience?
+“A career switch is a really big step. Techionista Academy was the push I needed to make the transition to the world of Big Data and AI. I can say that I have not regretted it for a minute. Almost immediately after completing the Academy I was able to start working as a Data Scientist. During the Academy you will learn almost everything about working with data (from coding to security and from dashboarding to storage). Working in IT means a lifelong learning, and the Techionista track is a very good place to start.”
+
+Brenda Loznik
+Alumni | Data Scientist at Agrifirm
+
+The trainers
+
+Sanne van Egmond
+
+Soft Skills Manager Techionista
+
+Communication styles
+Your DISC-profile
+Job application training
+Mark Farragher
+Mark Farragher
+
+Hard skills trainer
+
+Microsoft certified
+AI expert
+Scrum-master
+
+Emily Ripka
+
+Career skills trainer
+
+Consultancy Skills
+Communicatie
+Conflict resolution
+
+Victor Asuquo
+
+Hard skills trainer
+
+Microsoft certified
+Power BI
+Microsoft Azure
+
+Chris Potter
+
+Soft skills trainer
+
+Personal Branding
+Pitch training
+Interview training
+
+Yasmine Guerin
+
+Soft skills trainer
+
+Salary negotiation
+When to start learning?
+This year, we are not going to open a new class of Microsoft Azure Certified Data & AI Track. But we know you are eager to develop new skills! Good news: With a lower price, you can still have access to our guidance and curriculum but learn at your own pace with our upcoming on-demand track!
+
+Does this sound great to you? Get in touch with us now to take the first step of your training journey.
+
+Start	End	Weeks	Price*	Register
+TBD	TBD	8 or 16 (full-time)	€ 3,500 excl. VAT**	
+
+*This training will take place with a minimum of 20 participants.
+
+**The price of the 8-week program of Techionista Academy is a total of € 6,560 excl. VAT (€ 7,937.60 incl. VAT). The price of the 16-week track is a total of €8,500 excluding VAT (€10,285 including VAT). But as a participant, you pay only part of that before the program starts. For both tracks that is: € 3,500 excl. VAT (€ 4,235 incl. VAT). For the remaining part, we have a no-cure, no-pay policy. If you do not find a job within 4 months after graduation, the remaining study costs will be forfeited. See also the FAQ for more information about the price.
+
+Frequently Asked Questions
+How much does the 16-week track cost?
+You probably noticed that we have two options for you. You can follow the 8-week track, which will prepare you for a new career as a Data Analyst or a Data & AI consultant. Or you can follow the 16-week track. After finishing that track, you are able to start as a Data Analyst or as a Data Engineer.
+
+The total study costs of the 16-week track are: € 8.500 excl. VAT (€ 10.285 incl. VAT). Before the start of the program, you pay € 3.500 excl VAT (€ 4.235,- incl. VAT). Good to know: most of our talents only pay that amount, and never the remaining study costs of € 5.000 excl VAT (€ 6.050 incl VAT). That’s because most of our talents will find a job during or after the track with a company that pays the remaining study costs on their behalf.
+
+On top of that: we use a no-cure, no-pay rule for the remaining study costs: if you don’t find a job within 4 months after graduation, we will cancel the remaining study costs! Only if you find a job within 4 months after graduation and your new employer is NOT willing to pay the remaining study costs, then will you pay back the remaining study costs yourself, which you can do in monthly installments. 
+
+Are there any funding or subsidy opportunities that I should be aware of?
+Yes! There are quite a few funding or subsidy opportunities that you should be aware of. Check out this blog that lists all the different options.
+
+How much does the 8-week track cost?
+You probably noticed that we have two options for you. You can follow the 8-week track, which will prepare you for a new career as a Data Analyst or a Data & AI consultant. Or you can follow the 16-week track. After finishing that track, you are able to start as a Data Analyst or as a Data Engineer.
+
+The total study costs of the 8-week track are: € 6.560 excl. VAT (€ 7.937,60 incl. VAT). Before the start of the program, you pay € 3.500 excl VAT (€ 4.235,- incl. VAT). Good to know: most of our talents only pay that amount, and never the remaining study costs of € 3060 excl VAT (€ 3702,60 incl VAT). That’s because most of our talents will find a job during or after the track with a company that pays the remaining study costs on their behalf.
+
+On top of that: we use a no-cure, no-pay rule for the remaining study costs: if you don’t find a job within 4 months after graduation, we will cancel the remaining study costs! Only if you find a job within 4 months after graduation and your new employer is NOT willing to pay the remaining study costs, then will you pay back the remaining study costs yourself, which you can do in monthly installments. 
+
+I am paying for this training myself. Can I use my STAP budget?
+Yes you can! You can use STAP budget for this training. STAP stands for Stimulans ArbeidsmarktPositie. With the STAP-budget of the Dutch government you can receive up to € 1.000 compensation for a training or course of your choice. This allows you to further develop yourself and strengthen your position in the labor market. Techionista Academy is registered in the STAP Training Register, which means that the STAP budget can be used for all our training courses. Please note that there are certain deadlines for applying for the STAP budget. So please arrange this as soon as possible. You can find more information on our special page about the STAP budget.
+
+I already have a job. Can I still join this track?
+Yes you can. Even if you already have a job, you can participate in this training. Your employer (or you yourself) will then pay for the training.
+
+I’m not looking for a job guarantee. Can I still participate?
+Would you like to follow the training, but are you not planning to apply for a job in the near future? 
+
+It could be, for example, that you want to prepare for a career in IT but are not ready to quit your current job. Or you don’t want to start working immediately after the training for other reasons. In this case, the Microsoft Azure Certified Data & AI track is a valuable investment in your future. 
+
+The costs for the training are as follows:
+
+8-week track: € 6.560 excl. VAT (€ 7.937,60 incl. VAT) instead of € 8.444 excl. VAT  (€ 10.217,24 incl. VAT)
+
+16-week track: € 8.500 excl. VAT (€ 10.285 incl. VAT) instead of € 10.444 excl. VAT (€ 12.637,24 incl. VAT)
+
+Are there scholarships that I can use to pay for this track?
+If you can’t make ends meet because you have no income while studying at Techionista, you can apply for a study allowance at TechMeUp. Read more at TechMeUp
+
+I am currently receiving unemployment benefits. Do you work together with the UWV?
+Yes, Techionista Academy is labeled by the UWV as a training partner. The UWV can make it possible to pay for your training with the help of their training budgets. You can get this budget if you are unemployed, but also if you are going to lose your current job within four months. If you would like more information about the possibilities, please contact your Work Advisor at the UWV and feel free to register without obligation. We will discuss this procedure too during your intake call.
+
+Is the study material included in the price?
+You don’t have to purchase anything for this training. All teaching material is available online and included in our price.
+
+How does that job guarantee work?
+Through the application form, tell us as much about yourself as you can. What kind of work experience do you have? What is your ambition? In which region would you like to work and what type of company? Based on this input we will make the first selection. We do this by carefully considering whether you have certain experiences or qualities that may be of interest to our partners. This does not always have to be experience in IT: some companies are also interested in people with a background in retail, healthcare, marketing, consultancy, or the financial sector. Do you make it through the first selection round? Then, you’ll get access to Techionista Talent Match, a platform where you can share your profile with our network. Do you succeed in finding a match? Then you score a job guarantee and the training will be paid for you. You may also find a job during or after the track. In that case, you pay your own contribution of € 3,500 ex VAT (€ 4,235 incl. VAT) prior to the training. You can get this contribution back if you find a job with a company that takes over the training costs in full. This way we share the risk.
+
+Does Techionista have an exemption policy?
+it is possible that you already master some of the material you learn at Techionista Academy. However, we do not work with an exemption policy. So you cannot skip parts of the program. This is because you will work together with fellow students. Moreover, repetition never hurts.
+
+What happens when I fail an exam?
+You will receive one exam voucher for each exam. Because you will take a total of three exams, you will receive three exam vouchers in total. If you do not pass one of the exams, you can take a resit. You need to pay the costs for a resit yourself. You also need to reschedule the re-exam yourself.
+
+Which certificates will I obtain?
+During the track of 8 weeks, you will take exams for Microsoft Azure Fundamentals (AZ-900), and Microsoft Power BI Data Analyst (PL-300). During the 16-week track you will take another exam for Data Engineering on Microsoft Azure (DP-203). For each exam you will receive one exam voucher. With this voucher you can schedule your exam online.
+
+Which language will be spoken during the training?
+This training is taught entirely in English. The trainers speak English and the material is also in English. It is therefore important that you can speak and read English well. Afraid you might not be able to come up with words fast enough? No worries; you will pick it up very soon.
+
+Are there holidays during the track?
+Yes, there are holidays during your retraining process. We take school holidays into account as much as possible. There are no live classes during holidays. You are still expected to do self study a few hours a week. Do you already have other holiday plans that fall outside the planned holiday period? Know that classes will continue and you can’t get too far behind. It is your responsibility to retake any missed live sessions. You need to get back in sync with the group as soon as possible, so you can attend the live training sessions in preparation for your exam. If you already have vacation plans that do not fall into the planned vacation period, you are required to disclose this to Techionista and your possible future employer.
+
+How long does this retraining process take?
+Full-time participation is based on (a minimum of) 36 study hours per week. We offer an 8-week track, and an 16-week track, holidays excluded. You can organize your schedule yourself; although there are weekly live (webinar) moments with coaches, trainers and fellow candidates that you need to attend online. Before you start, you will receive a weekly schedule, which states exactly when you will have your regular study time.
+
+I do not live in the Netherlands. Can I still participate?
+If you would like to participate with a job guarantee, it is of course especially important whether you find an employer who does not find remote working a problem. It will certainly influence your chances of getting a job guarantee. If you want to start without a job guarantee, of course you can. After all, this is a 100% online course. If the time difference is not an obstacle for you, you are very welcome!
+
+I have no experience with Data & AI. Can I still sign up for this track?
+It is important that you have some analytical skills (for example, that you have a feeling for mathematics). But we have composed the training in such a way that even if you have no experience, you should be able to follow the training. The more experience you have with programming languages, the easier it will be. We estimate that you will need an academic level for this training. You do not have to prove this to us with a University diploma; it can also be evident from because of your work experience. Are you in doubt whether you can handle this training? Signing up is always without obligation. After receiving your registration form, we will send you an email with an invitation for an intake call. We can then discuss together whether this training is right for you.
+
+Do I need a specific laptop to participate?
+We strongly recommend that you work on a computer with Windows OS (operating system). You need a laptop or computer with a camera and a good microphone, because you will participate in various webinars and team building assignments where we use video calling. In addition, we recommend using a computer with Intel core I5 or higher and 8GB RAM, this ensures that your computer is fast enough to load heavy programs such as Power BI.

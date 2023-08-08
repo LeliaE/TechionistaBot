@@ -1,0 +1,97 @@
+3 training days
+Master Machine Learning & AI with Microsoft Azure
+Learn to work with Machine Learning in Azure
+Understand Machine Learning & AI Models
+With Microsoft DP-100 exam voucher
+Hands-on and practical
+Sign up now
+
+Need financial support to follow this track?
+Fear not, as there are many funding and subsidy opportunities available to help you on your journey toward your brand-new career in tech. We’ve made a list of funding and subsidy opportunities for you.
+
+
+Enter the World of Machine Learning & AI
+Are you ready to take your career to the next level? Our Microsoft Azure Certified Machine Learning and AI course is the perfect choice to gain in-demand skills and boost a career in Data. 
+
+Our comprehensive training program of 3 full training days, will equip you with the essential skills and knowledge to understand all about machine learning and AI with Microsoft Azure. In addition to the basic theory, you will also put your knowledge into practice. This practice will prepare you to work with machine learning in an actual work situation. We’ll also prepare you for the official Microsoft certification DP-100 (Designing and Implementing a Data Science Solution on Azure). 
+
+After the training days, you’ll schedule your exam using the voucher that you will receive from us. This means that you won’t have to pay for the exam: The exam voucher is included in your training price. Before taking your exam, you also need some self-study hours to prepare for the exam. Microsoft certificates are highly recognized by the tech industry and obtaining them proves that you have acquired the necessary skills to work in the field of Data!
+
+Please note: This training is offered in English.
+What you’ll be learning?
+Whether you’re a data scientist, software developer, or business analyst, or you want to start working in Data & AI: our course will help you gain the skills and knowledge to take your career to the next level.
+
+During your Machine Learning & AI track at Techionista Academy, you will learn everything on: 
+
+What is Machine Learning?
+How to design, train and evaluate complex AI models
+Loading and processing data
+How to model content, without coding
+Regression models – predicting numerical data
+Binary classification – predicting model
+Multiclass classification + business case
+Training and evaluation models + business case
+Ensemble Models
+Clustering
+Recommendation systems + business case
+As we firmly believe in a combination of hard skills and business skills, you’ll put your new skills into practice with real-life business cases (for example generating Netflix recommendations or predicting risks for heart patients).
+
+
+You are the perfect match when you are…
+Are you eager to learn? Do you have an affinity with the world of Data & AI? Are you result driven? Analytical savvy? Then this track might be for you.
+
+Experience with Azure
+The pace of this training is high, and you will immediately go into the deep. That is why it’s a plus if you already have some experience with Microsoft Azure.
+
+Academic level
+We estimate that you need to have an academic (thinking) level for this training. You do not have to prove this to us with a University diploma; it is also possible that you reached this level through your work experience.
+
+Workers and job-seekers
+Everyone can follow this free training: workers, freelancers, and job seekers.
+
+Mentality
+You have a growth mindset. This means, instead of problems you only see challenges. You are assertive and communicative and eager to learn.
+
+Age
+We believe in age diversity, so there is no such thing as too young or too old. Everyone is welcome.
+
+Why You Should Learn at Techionista Academy?
+Here are just a few of the reasons why our course is perfect for you:
+
+Designed to boost diversity, equity, and inclusion in Tech: Our Academy’s main mission is to support and empower talent into Tech. We know these values are crucial to driving innovation and progress and that there are challenges and barriers faced by individuals from underrepresented communities. Also, we foster a community that values and celebrates diverse perspectives and our course provides supportive and inclusive learning.
+Improve employability: By earning a certification in machine learning and AI with Microsoft Azure, you’ll gain valuable skills that are in high demand by employers across a range of industries, including healthcare, finance, and technology. This can help improve your employability and open up new career opportunities.
+Learn from industry experts: Our course is taught by experienced Microsoft-certified instructors who have years of experience in the field of Data & AI. You’ll learn from the best in a small group and gain insights and knowledge that you can apply to your own career.
+Gain practical skills: Our course is hands-on and practical, so you’ll gain real-world skills that you can apply to your work immediately. You’ll work with real data and learn how to apply machine learning and AI techniques to solve complex problems.
+Free access to additional study materials: Upon signing up for a course at Techionista Academy, you will get free access to a premium Data Camp account. This will not only help you prepare for your exam but also enable you to study other topics of interest even after your program.
+Advance your career: With a certification in machine learning and AI with Microsoft Azure, you’ll advance your career and take on new roles and responsibilities. You’ll have the skills and knowledge you need to succeed in today’s fast-paced and competitive job market and enhance your career prospects.
+Enroll today and join a community of supportive talents who are passionate about tech and excited to learn about machine learning and AI with Microsoft Azure.
+
+What was her experience?
+“The Machine Learning & AI track provides, in a short time, a nice introduction into the world of data science. If you already have experience with data science, this course shows you how you can easily apply machine learning together with Azure. I think this is a beautiful and inspiring course.”
+
+Meyke van den Bos
+Alumni | Data Scientist bij TomTom
+
+The trainer
+Mark Farragher
+Mark Farragher
+
+Hard skills Trainer
+
+Microsoft certified
+AI expert
+Scrum-master
+Ready? Register now
+The ML&AI track is given a number of times per year.
+
+Microsoft DP-100 exam voucher included
+100% Online Coaching
+Hands-on and practical
+Training days	Price	
+11, 12, 13 October	€ 995 incl VAT	Sign up
+Frequently Asked Questions
+What if I don’t pass the exam?
+You will receive one exam voucher from us. If you do not pass the exam, you can choose to take a resit. The costs for the resit are for your own account. Also, you will have to arrange and schedule this possible resit yourself.
+
+Do I need a specific laptop to participate?
+We strongly recommend that you work on a computer with Windows OS (operating system). You need a laptop or computer with a camera and a good microphone, because you will participate in various webinars and team building assignments where we use video calling. In addition, we recommend using a computer with Intel core I5 or higher and 8GB RAM, this ensures that your computer is fast enough to load heavy programs such as Power BI.

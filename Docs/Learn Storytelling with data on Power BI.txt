@@ -1,0 +1,103 @@
+3 training days
+Learn Storytelling with data on Power BI
+Sign up without obligation and get into data analysis. Learn everything about:
+Power BI and data analysis
+Data retrieval, cleaning, and modeling
+With Microsoft PL-300 exam voucher
+Sign up now
+
+Need financial support to follow this track?
+Fear not, as there are many funding and subsidy opportunities available to help you on your journey toward your brand-new career in tech. We’ve made a list of funding and subsidy opportunities for you.
+
+
+Boost your Career: Storytelling with Power BI
+Power BI is a business analytics service provided by Microsoft that allows businesses to analyze and visualize data in a more effective and efficient way. It enables organizations to connect to various data sources, transform and clean the data, and create interactive and insightful reports and dashboards.
+
+Using Power BI, businesses can make data-driven decisions, identify trends and patterns, and gain insights into their operations and customers. It also provides real-time monitoring and alerts, allowing businesses to unlock the full potential of their data and make informed decisions.
+
+By taking our Power BI course, you will gain the skills and knowledge necessary to master this powerful tool and drive business success. Would you like to retrain yourself to start your career as a data analyst? Or do you want to enrich your skillset, in order to gain a more solid position in the labor market? Then the Power BI: Storytelling with Data Track is the right training for you!
+
+What will you learn?
+We firmly believe in a combination of hard skills and business skills. That is why you will not only learn everything about data analysis from cleaning data to creating data models with Power BI but you will also put your new skills into practice by learning all about report design and storytelling with data. 
+
+Here is an overview of the topics that you’ll be covering:
+
+Prepare data for analysis
+Retrieve data from other sources
+Create a profile out of the data
+Clean, transform and load the data
+Model data
+Design a data model
+Create measurements with DAX-formulas
+Optimize the performance of the model
+Analyze data
+Enhance reports to uncover insights
+Perform advanced analysis
+Implement and maintain deliverables
+Manage datasets
+Create and manage workspaces
+Storytelling with data
+Report design
+How to tell a story with data
+Do’s and Don’ts in Design
+How to convince an audience
+
+24 hours live training, divided over 3 days
+After this course, you will have a solid basis for the PL-300 Microsoft Power BI Data Analyst Exam. You will receive a voucher to go for this exam. This means that you won’t have to pay for the exam since the exam voucher is included in the training amount. Microsoft certificates are highly recognized by the tech industry and obtaining them proves that you have acquired the necessary skills to work in the field of Data!
+
+Our study materials consist of E-learning materials. The courses will take place in Dutch or in English with Microsoft-certified trainers and before you are ready to go for the exam, you’ll need self-study hours. On average, people spend about 40 to 80 hours on their self-study. 
+
+You can use the Free Premium Data Camp account provided by Techionista Academy and Microsoft Learn content in order to prepare. We’ll be giving guidance on which content is best to learn efficiently. You can use your free Data Camp account also after your Microsoft exam to learn other tech topics you’re interested in, such as Python, ChatGPT, SQL, C++, and many more! 
+
+You are the perfect match when you are…
+Are you eager to learn? Do you have an affinity with the world of Data & AI? Are you result driven? Analytical savvy? Then this track might be the thing for you.
+
+Analytical
+It is important that you have some analytical skills. However, we composed the training in such a way that even if you have no experience in IT yet, you should be able to complete this training.
+
+Academic level
+We estimate that you need to have an academic (thinking) level for this training. You do not have to prove this to us with a University diploma; it is also possible that you reached this level through your work experience.
+
+Mentality
+You have a growth mindset. This means, instead of problems you only see challenges. You are assertive and communicative and eager to learn.
+
+Age
+We believe in age diversity! You might be a student, a recent graduate, or a mid or senior-level employee with several years of experience: at our academy, everyone is welcome!
+
+Language
+This training will take place in Dutch or in English. The study materials are in English. A good understanding of the English language is therefore also important.
+
+Laptop or computer
+Preferably Office 365 or 2021, but earlier versions (after 2010) can also participate. With a Mac, you can not attend this training. Please install the latest version of Power BI on your computer. The latest version is not necessary, but definitely nice to have.
+
+Why Should You Learn at Techionista Academy?
+Here are just a few of the reasons why our course is perfect for you:
+
+Designed to boost diversity, equity, and inclusion in Tech: Our Academy’s main mission is to support and empower talent into Tech. We know these values are crucial to driving innovation and progress and that there are challenges and barriers faced by individuals from underrepresented communities. We foster a community that values and celebrates diverse perspectives and our course provides supportive and inclusive learning.
+Improve employability: By earning a Microsoft certification in Storytelling with Power BI, you’ll gain valuable skills that are in high demand by employers across a range of industries, including healthcare, finance, and technology. You’ll be acquiring skills that improve your employability and open up new career opportunities.
+Learn from industry experts: Our course is given by experienced Microsoft-certified instructors who have years of experience in the field of Data & AII. You’ll learn from the best in a small group and gain insights and knowledge that you can apply to your own career.
+Free access to additional study materials: Upon signing up for a course at Techionista Academy, you will get free access to a premium Data Camp account. This will not only help you prepare for your exam but also enable you to study other topics of interest even after your program.
+Gain practical skills: Our course is hands-on and practical, so you’ll gain real-world skills that you can apply to your work immediately. You’ll work with real data and learn how to apply machine learning and AI techniques to solve complex problems.
+Advance your career: With a certification in Microsoft Power BI, you’ll advance your career and take on new roles and responsibilities. You’ll have the skills and knowledge you need to succeed in today’s fast-paced and competitive job market. You will have the ability to create compelling data visualizations, improve data analysis skills, and enhance career opportunities.
+What was her experience?
+“The Power BI training from Techionista Academy was incredibly fun to attend. The trainer’s explanations were clear, and she used relevant examples to make the material more comprehensible. The group was diverse, which ensured that different perspectives were discussed. The storytelling part had extra added value because you can apply that outside of Power BI too. Ultimately, a good foundation is laid to build beautiful, clear reports and dashboards.”
+
+Sabrina
+Participant
+
+The trainer
+
+Genevieve Koens
+
+Trainer
+
+Microsoft Certified
+Power BI
+Ready? Register now!
+We offer multiple tracks per year. This training will take place with at least 6 participants. This training is given in Dutch (NL) and in English (EN). Please have a look at the dates to see in which language that specific track is given.
+
+With a voucher for the PL-300 exam
+100% Online Coaching
+Build a professional dashboard
+Training days	Price	
+9-10-11 October 2023 (EN)	€ 995 incl VAT	Register here

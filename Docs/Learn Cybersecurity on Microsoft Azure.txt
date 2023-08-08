@@ -1,0 +1,136 @@
+2 training days
+Learn Cybersecurity on Microsoft Azure
+Sign up without obligation
+Fundamentals of Security, Compliance and Identity
+With real life examples
+Prepare for the Microsoft SC-900 Exam
+Sign up now
+
+
+Enhance your Career with CyberSecurity
+With the growing importance of cybersecurity in today’s world, learning to identify potential security flaws, threats, and malicious activities in order to increase online security is taken deadly seriously by organizations and governments.
+
+Having a Microsoft certification in Security, Compliance, and Identity can significantly boost your career opportunities as Microsoft certifications are recognized globally. It also demonstrates to potential employers that you have the skills and knowledge needed to secure their networks and data.
+
+By gaining expertise in Microsoft Security, Compliance, and Identity, you’ll be equipped to help organizations manage risks, comply with regulations, and protect their data from cyber-attacks. 
+
+Are you interested in the exciting field of cybersecurity? Are you looking to enhance your skills and earn a globally recognized certification? Look no further than Techionista Academy’s Microsoft Certified Security, Compliance, and Identity track.
+
+What will you learn during your Security, Compliance, and Identity course?
+This course consists of 16 hours of instructor-led training, divided over 2 full training days and it will be given in English. In addition to the basic theory, you will also get plenty of time to put your knowledge into practice. On top of that, we will prepare you for the Microsoft certification SC-900 (Security, Compliance, and Identity Fundamentals). 
+
+After joining the training days, you will need to study to prepare for the exam. How many more hours of self-study you need depends on your experience and how fast you learn. We estimate that it will take you 6 extra study hours. 
+The costs of taking the exam are included in the price of this training. After the training days and your self-study, you can schedule your exam using the voucher that you will receive from us.
+
+
+Overview of topics you will cover:
+The basic concepts of security, compliance, and identity
+Security methodologies and Microsoft Security
+Encryption and hashing
+Compliance principles
+Zero trust methodology
+Shared responsibility model defense in depth
+The features of Microsoft Identity and Access Management Solutions
+The identity principles and concepts
+Basic identity and identity types
+Authentication
+Access management and identity protection 
+Governance capabilities of Azure Active Directory
+Managing the basic security capabilities in Microsoft solutions
+Azure
+Azure Sentinel 
+Microsoft 365 Defender 
+InTune
+Microsoft 365
+Microsoft’s compliance management capabilities
+The capabilities in Microsoft 365 of information protection and governance
+Inside risk
+eDiscovery 
+Audit
+You are the perfect match when you are…
+Are you eager to learn? Do you have an affinity with the world of IT? Are you tech-savvy? Then this track might be for you.
+
+Basic knowledge of Microsoft Azure and Microsoft 365
+Because the course refers to Microsoft Azure and Microsoft 365 terminology, it would be beneficial if you have basic knowledge of those two topics.
+
+Academic level
+We estimate that you need to have an academic (thinking) level for this training. You do not have to prove this to us with a University diploma; it is also possible that you reached this level through your work experience.
+
+Mentality
+You have a growth mindset: instead of problems you only see challenges. You are assertive, communicative, and eager to learn You can deal with setbacks and therefore you are flexible.
+
+Age
+We believe in age diversity, so there is no such thing as too young or too old. Everyone is welcome!
+
+General understanding of the IT environment
+Having a general grasp of networking and cloud computing concepts will help you better understand the concept of SCI.
+
+Workers and jobseekers
+Everyone can enrol! New and existing IT professionals, freelancers, and jobseekers with an interest in Microsoft security, compliance, and identity management technologies.
+
+Why Should You Learn at Techionista Academy?
+Here are just a few of the reasons why our course is perfect for you:
+
+Designed to boost diversity, equity, and inclusion in Tech
+Our Academy’s main mission is to support and empower talent into Tech. We know these values are crucial to driving innovation and progress and that there are challenges and barriers faced by individuals from underrepresented communities. We foster a community that values and celebrates diverse perspectives and our courses provide supportive and inclusive learning.
+
+Here are just a few of the reasons why our course is perfect for you:
+
+Improve employability
+By earning advanced skills in Excel, you’ll boost your employability and advance your career and take on new roles and responsibilities. You’ll have the skills and knowledge you need to succeed in today’s fast-paced and competitive job market.
+
+Learn from industry experts
+Our course is taught by experienced Microsoft-certified instructors who have years of experience in the field of Data & AI. You’ll learn from the best in a small group and gain insights and knowledge that you can apply to your own career.
+
+Free access to additional study materials
+Upon signing up for a course at Techionista Academy, you will have free access to a premium Data Camp account. This will not only help you prepare for your exam but also enable you to study other topics of interest even after your program
+
+Here are just a few of the reasons why our course is perfect for you:
+
+Gain practical skills
+Our course is designed to be hands-on and practical, so you’ll gain real-world skills that you can apply to your work immediately. You’ll work with real data and learn how to apply machine learning and AI techniques to solve complex problems.
+
+The trainer
+
+Anand Rao Nednur
+
+Trainer
+
+Microsoft Certified
+Cloud Architect on Azure, AWS and GCP
+Security expert
+Scrum Master
+Ready? Register now!
+This training will take place with at least 6 participants and will be given in English (EN).
+
+Get a voucher for the SC-900 exam
+100% Online training
+Master the fundamentals of Security, Compliance, and Identity
+Training days	Price	
+November ’23	€ 695 incl VAT	Register here
+Learning Path to Become a Master of Security
+With the SC-900 you cover the basics of Microsoft solutions’ security services. But if you really want to become an expert on this subject, we recommend following through and taking the next steps! That’s why we are creating an entire learning path as we speak.
+
+To give you a glimpse of what that will look like:
+
+After the SC-900 certificate, you can go for the SC-200 which covers more in-depth knowledge of security. You’ll learn how to mitigate threats and configure Microsoft Sentinel Environment.
+Then it’s time for SC-300 certificate. It will help you to obtain practical aspects of implementing and managing your identity and access solutions.
+Compliance, data protection, governance, and risk management are the main topics of SC-400. While being hands-on, this certification concentrates on technology at the management level.
+And finally, SC-100 develops you into a well-rounded architect for cyber security. 
+Do you want to become a Master of the Azure Security services?
+
+We are planning to launch SC-200, SC-300, SC-400, and SC-100 courses very soon. Reserve your seat now without any obligation and join the waiting list!  
+
+Join waiting list!
+Frequently Asked Questions
+When will I know if my STAP application has been approved?
+The UWV can take up to 4 weeks to approve applications but aims to do so within a few working days. For most applications, if the conditions are met, the STAP budget is awarded almost immediately.
+
+Do I have to wait for my STAP budget application to be approved before I can apply for training?
+No, you don’t have to wait. The first step is to enroll in the Techionista Academy training of your choice. After enrollment, you will receive a certificate of enrollment. From November 1st you can apply for the STAP budget via stapuwv.nl. If the STAP budget is granted, we will receive a copy in the form of a purchase order, and you are ready to start the training!
+
+For which of your courses can I use the STAP budget?
+Techionista Academy is registered in the STAP Training Register, which means that the STAP budget of € 1,000 can be used for all our trainings.
+
+What if I want to take a course that costs more than €1,000?
+Would you like to take one of our long-track courses? Then it is also possible to make use of the STAP budget. You will receive a discount of € 1.000 and pay the rest of the costs yourself.
