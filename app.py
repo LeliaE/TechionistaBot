@@ -10,7 +10,7 @@ import webbrowser
 import discord
 from discord.ext import commands
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 
 # STYLE
 config = toml.load("config.toml")
