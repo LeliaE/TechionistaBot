@@ -134,9 +134,7 @@ def main():
     #st_thread = threading.Thread(target=main)
     #st_thread.start()
 
-    # Start the Discord bot in a separate thread
-    discord_thread = threading.Thread(target=run_discord_bot)
-    discord_thread.start()
+    
     index = load_index_from_disk()  # Load the GPT model index from disk
 
     if "messages" not in st.session_state:
@@ -172,10 +170,11 @@ if __name__ == "__main__":
     
 
     # Start the Discord bot in a separate thread
-    #discord_thread = threading.Thread(target=run_discord_bot)
-    #discord_thread.start()
+    discord_thread = threading.Thread(target=run_discord_bot)
+    discord_thread.start()
 
     # Run the Streamlit app
     main()
+    
 
 
