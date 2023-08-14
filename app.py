@@ -49,7 +49,7 @@ async def on_ready():
 @bot.command()
 async def chat(ctx, *, prompt: str):
     # Check if the command was issued in a specific channel
-    if ctx.channel.id == 1137999474417991720:
+    if ctx.channel.id == 1138425614123143251:
         index = GPTSimpleVectorIndex.load_from_disk('index.json')
         
         # Show typing indicator while processing
