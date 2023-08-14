@@ -130,6 +130,13 @@ def check_server_availability(url):
             return False
 
 def main():
+    # Start the Streamlit app in the main thread
+    st_thread = threading.Thread(target=main)
+    st_thread.start()
+
+    # Start the Discord bot in a separate thread
+    discord_thread = threading.Thread(target=run_discord_bot)
+    discord_thread.start()
     index = load_index_from_disk()  # Load the GPT model index from disk
 
     if "messages" not in st.session_state:
@@ -151,13 +158,7 @@ def main():
         with st.chat_message("assistant"):
             st.markdown(response)
 
-   # Start the Streamlit app in the main thread
-    st_thread = threading.Thread(target=main)
-    st_thread.start()
-
-    # Start the Discord bot in a separate thread
-    discord_thread = threading.Thread(target=run_discord_bot)
-    discord_thread.start()
+ 
     
     while True:
         if check_server_availability("https://discordapp.com"):
