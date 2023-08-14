@@ -10,7 +10,6 @@ import webbrowser
 import discord
 from discord.ext import commands
 import threading
-import web_browser
 import time
 import requests
 
