@@ -9,6 +9,10 @@ import toml
 import webbrowser
 import discord
 from discord.ext import commands
+import threading
+import web-browser
+import time
+import requests
 
 os.environ["OPENAI_API_KEY"] = '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'
 
@@ -58,8 +62,21 @@ async def chat(ctx, *, prompt: str):
     
 # Function to run the Discord bot in a separate thread
 def run_discord_bot():
-    bot.run('MTEzNzk5NjY4MDYxMzA4NTMxNQ.GK34tN.pkv1bBsSQPIiUFqfWVSptomktI7x2Qqxxn-qOk')
+    reconnect_attempts = 0
+    max_reconnect_attempts = 5
 
+    while not bot.is_closed():
+        try:
+            bot.run('MTEzNzk5NjY4MDYxMzA4NTMxNQ.GK34tN.pkv1bBsSQPIiUFqfWVSptomktI7x2Qqxxn-qOk')
+        except discord.errors.ConnectionClosed:
+            if reconnect_attempts < max_reconnect_attempts:
+                reconnect_attempts += 1
+                delay = 2 ** reconnect_attempts  # Exponential backoff
+                print(f"Attempting to reconnect in {delay} seconds...")
+                time.sleep(delay)
+            else:
+                print("Max reconnection attempts reached. Exiting.")
+                break
 
 # Sidebar content
 st.sidebar.image("TechionistaAcademy_Horizontal.png", use_column_width=True)
@@ -127,12 +144,37 @@ def main():
         with st.chat_message("assistant"):
             st.markdown(response)
 
-if __name__ == "__main__":
-    import threading
+   # Start the Streamlit app in the main thread
+    st_thread = threading.Thread(target=main)
+    st_thread.start()
 
     # Start the Discord bot in a separate thread
     discord_thread = threading.Thread(target=run_discord_bot)
     discord_thread.start()
+    
+    # Network Monitoring
+    def check_server_availability(url):
+        try:
+            response = requests.get(url)
+            response.raise_for_status()  # Raise an exception for non-2xx responses
+            return True
+        except requests.exceptions.RequestException:
+            return False
+    
+    while True:
+        if check_server_availability("https://discordapp.com"):
+            print("Server is online.")
+        else:
+            print("Server is offline.")
+        time.sleep(60)  # Check every minute
+
+
+if __name__ == "__main__":
+    
+
+    # Start the Discord bot in a separate thread
+    #discord_thread = threading.Thread(target=run_discord_bot)
+    #discord_thread.start()
 
     # Run the Streamlit app
     main()
