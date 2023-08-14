@@ -131,8 +131,8 @@ def check_server_availability(url):
 
 def main():
     # Start the Streamlit app in the main thread
-    st_thread = threading.Thread(target=main)
-    st_thread.start()
+    #st_thread = threading.Thread(target=main)
+    #st_thread.start()
 
     # Start the Discord bot in a separate thread
     discord_thread = threading.Thread(target=run_discord_bot)
