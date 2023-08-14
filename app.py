@@ -120,7 +120,15 @@ def chatbot(input_text, index):
         index = construct_index("docs")
     response = index.query(input_text, response_mode="compact")
     return response.response
-    
+# Network Monitoring
+def check_server_availability(url):
+        try:
+            response = requests.get(url)
+            response.raise_for_status()  # Raise an exception for non-2xx responses
+            return True
+        except requests.exceptions.RequestException:
+            return False
+
 def main():
     index = load_index_from_disk()  # Load the GPT model index from disk
 
@@ -150,15 +158,6 @@ def main():
     # Start the Discord bot in a separate thread
     discord_thread = threading.Thread(target=run_discord_bot)
     discord_thread.start()
-    
-    # Network Monitoring
-    def check_server_availability(url):
-        try:
-            response = requests.get(url)
-            response.raise_for_status()  # Raise an exception for non-2xx responses
-            return True
-        except requests.exceptions.RequestException:
-            return False
     
     while True:
         if check_server_availability("https://discordapp.com"):
