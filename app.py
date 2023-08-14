@@ -66,7 +66,7 @@ def run_discord_bot():
 
     while not bot.is_closed():
         try:
-            bot.run('MTEzNzk5NjY4MDYxMzA4NTMxNQ.GK34tN.pkv1bBsSQPIiUFqfWVSptomktI7x2Qqxxn-qOk')
+            bot.run('MTEzNzk5NjY4MDYxMzA4NTMxNQ.Gs79ym.V9ZnuTZLozRx2ywkeaUf1ysob_neFtU_ucTQcc')
         except discord.errors.ConnectionClosed:
             if reconnect_attempts < max_reconnect_attempts:
                 reconnect_attempts += 1
